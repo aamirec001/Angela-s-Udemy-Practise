@@ -1,0 +1,47 @@
+.hp {
+    background-color:aqua ;
+}
+
+/* *{
+    margin: 0;
+}
+
+or  */
+
+body {
+    /* margin-top: 0; */
+
+    margin: 0;
+
+}
+
+.hp h3{
+    margin-top: 0;
+}
+
+
+
+.middlecontainer{
+
+    border: solid;
+    
+background-color: red;
+    width: 200px;
+    height: 200px;
+    /* border-width: 50px; */
+    /* margin-bottom: 10px; */
+/* Refer samsung notes to understand box model padding margin border width */
+}
+
+
+.bottomcontainer{
+
+    border: solid;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+/* background-color: green;
+   border-width: 200px;
+   padding: 200px; */
+
+}

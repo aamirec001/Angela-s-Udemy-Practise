@@ -1,0 +1,73 @@
+
+.heading {
+
+    width: 300px ;
+    font-size: 3vh;
+}
+
+
+
+.beautiful {
+
+    margin-top: 100px;
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 20px
+ 
+    /* position: relative; */
+}
+
+.beautiful img {
+    float: left;
+    width: 200px;
+    height: 170px;
+    /* margin-left: 50px; */
+    margin-right: 20px;
+}
+
+.para {
+
+    /* margin-left: 5px; */
+}
+
+
+.Constructions {
+
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    /* position: absolute; */
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+
+
+.Constructions img {
+    float: right;
+    width: 200px;
+    height: 170px;
+    /* text-align: right; */
+    /* margin-top: 100px; */
+}
+
+footer {
+
+    clear: both;
+    text-align: right;
+    
+}
+
+
+.Constructions {
+
+    display: inline-block;
+    /* width: 400px;
+    height: 200px; */
+    /* position: absolute; */
+
+}
+
+
